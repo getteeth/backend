@@ -22,21 +22,28 @@ first, middle, last = 'alex', 'mj', 'kj'
 
 print (middle)
 
-#naming covention in python 
+#naming convention in python 
 
 #variables use snake_case (lowercase, words separated by _ not spaces )
 favorite_food = "snake"
 
-#constant variables ( whos vaule will never chance) 
+#constant variables ( who's value will never chance) 
 NUM_PI  = 3.14
 
-#RULES FOR NAMEING VARIABLES 
+#RULES FOR NAMING VARIABLES 
 
-#----DONT START YOU VARIABLE WITH A NUMBER 
-# 1ST_NUMBER NUM_1 = 1 
+#----DONT START YOUR VARIABLE WITH A NUMBER 
+# like this >> 1ST_NUMBER 
+#like this >> NUM_1 = 1 
+
+
+# snack_case (words separated with a number )
+
+
+
 
 #----NO SYMBOLS  
-#jake&jill 
+#>>> jake&jill 
 
 
 #no reserved words 
