@@ -43,7 +43,7 @@ NUM_PI  = 3.14
 
 
 #----NO SYMBOLS  
-#>>> jake&jill 
+#>>> jake&jill git i
 
 
 #no reserved words 
