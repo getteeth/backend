@@ -1,11 +1,11 @@
-#type function allows us to see the datatype of anygiven value
+#type function allows us to see the datatype of any given value
 print (type("hello world"))
 print (type('6'))
 print(type(3.23))
 
 print (type('4'))
 
-#type casting usin int ( coverst data to an in data type )
+#type casting using int ( covert data to an in data type )
 
 
 

@@ -16,7 +16,7 @@ food = "pizza"
 #execution flow is down the page 
 
 
-#multiple assingment 
+#multiple assignment 
 
 first, middle, last = 'alex', 'mj', 'kj'
 
